@@ -1,4 +1,4 @@
-# kk-mapstruct-hyperf
+# php-mapstruct-hyperf
 
 
 ## 使用教程
